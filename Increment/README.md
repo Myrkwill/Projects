@@ -2,9 +2,9 @@ Increment
 
 Frameworks:
 
-SwiftUI
-Combine
-Firebase
-FirebaseAuth
-FirebaseFirestore
-FirebaseFirestoreSwift
+- SwiftUI
+- Combine
+- Firebase
+- FirebaseAuth
+- FirebaseFirestore
+- FirebaseFirestoreSwift
