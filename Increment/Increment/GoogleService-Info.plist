@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>239522082159-c59ganemf9069m75u3tmeb5gq203qjv7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.239522082159-c59ganemf9069m75u3tmeb5gq203qjv7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPtq_PUpAj16iyeJf_Tn6SovLZ1UA1Kjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>239522082159</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myrkwillStudio.Increment</string>
+	<key>PROJECT_ID</key>
+	<string>increment-af101</string>
+	<key>STORAGE_BUCKET</key>
+	<string>increment-af101.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:239522082159:ios:70b9cd2ff858c3fae3cc9a</string>
+</dict>
+</plist>
